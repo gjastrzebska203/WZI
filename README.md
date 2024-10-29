@@ -1,4 +1,4 @@
 # WZI
-Gabriela Jastrzębska
-Filip Łapiński
-Adam Oporski
+Gabriela Jastrzębska\n
+Filip Łapiński\n
+Adam Oporski\n
